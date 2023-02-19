@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Psych Engine
+# Friday Night Funkin' - Psych Engine can impostor v1
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -102,4 +102,7 @@ _____________________________________
 * Lag doesn't impact the camera movement and player icon scaling anymore.
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
-* You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+* You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space
+* by:https://youtube.com/@shadicthehedgehog5249
+* link;https://gamejolt.com/games/sus/785153
+* iş moda download pls. 
