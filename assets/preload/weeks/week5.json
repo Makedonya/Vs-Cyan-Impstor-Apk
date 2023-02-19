@@ -1,16 +1,14 @@
 {
 	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+		["freeplay",[160, 209, 255]],
 	],
 
 	"weekCharacters": [
-		"parents-christmas",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "christmas",
+	"weekBackground": "freeplay",
 
 	"storyName": "RED SNOW",
 	"weekBefore": "week4",
