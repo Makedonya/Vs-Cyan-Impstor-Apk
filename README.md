@@ -97,7 +97,7 @@ _____________________________________
 * You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
  * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
 
-## Other gameplay features:
+## Other gameplay f features eatures:
 * When the enemy hits a note, their strum note also glows.
 * Lag doesn't impact the camera movement and player icon scaling anymore.
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
@@ -106,4 +106,6 @@ _____________________________________
 * # Friday Night Funkin mods
 * by:https://youtube.com/@shadicthehedgehog5249
 * link;https://gamejolt.com/games/sus/785153
-* iş moda download pls. 
+* iş moda download pls.
+* ## sus
+* 
