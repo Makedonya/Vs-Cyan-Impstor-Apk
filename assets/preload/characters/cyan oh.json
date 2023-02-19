@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-402
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "amination",
+			"indices": [],
+			"name": "Cyan oh no"
+		},
+		{
+			"offsets": [
+				97,
+				-399
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "amination2",
+			"indices": [],
+			"name": "Cyan no"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyan creimpos",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crew",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		255,
+		162
+	],
+	"camera_position": [
+		-320,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}
