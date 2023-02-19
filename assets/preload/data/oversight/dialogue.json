@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how"
+		},
+		{
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you impostor"
+		},
+		{
+			"sound": "i-text",
+			"speed": 0.05,
+			"portrait": "yoshiredhalo",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "no"
+		},
+		{
+			"sound": "i-text",
+			"speed": 0.05,
+			"portrait": "yoshiredhalo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i\"'m crewmate"
+		},
+		{
+			"sound": "bf-text",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "NO"
+		},
+		{
+			"sound": "i-text",
+			"speed": 0.05,
+			"portrait": "yoshiredhalo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wat"
+		},
+		{
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "is you impostor"
+		},
+		{
+			"sound": "i-text",
+			"speed": 0.05,
+			"portrait": "yoshiredhalo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okey i'm impostor"
+		},
+		{
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "hahahahaha "
+		},
+		{
+			"sound": "i-text",
+			"speed": 0.05,
+			"portrait": "yoshiredhalo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wata f****"
+		}
+	]
+}
