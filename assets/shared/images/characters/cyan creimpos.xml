@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyan creimpos.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyan no0000" x="0" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0001" x="342" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0002" x="342" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0003" x="684" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0004" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0005" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0006" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0007" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0008" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0009" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0010" x="1026" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0011" x="1368" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0012" x="1368" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0013" x="1368" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0014" x="1710" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0015" x="2052" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0016" x="2394" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan no0017" x="2736" y="0" width="342" height="269"/>
+	<SubTexture name="Cyan oh no0000" x="3078" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0001" x="3373" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0002" x="3668" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0003" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0004" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0005" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0006" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0007" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0008" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0009" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0010" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0011" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0012" x="3963" y="0" width="295" height="240"/>
+	<SubTexture name="Cyan oh no0013" x="4258" y="0" width="295" height="240"/>
+</TextureAtlas>
